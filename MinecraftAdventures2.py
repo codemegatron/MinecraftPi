@@ -18,3 +18,4 @@ mc.postToChat("Get ready to fall from the sky! Mwahahahahahahahahahahahaha!!")
 
 time.sleep(5)
 mc.player.setPos(pos.x, pos.y + 600, pos.z)
+
